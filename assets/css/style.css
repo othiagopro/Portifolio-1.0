@@ -1,0 +1,13 @@
+@import url(../css/cabecalho.css);
+
+body{
+    background-color: #000;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navegation{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
