@@ -2,7 +2,7 @@ header{
     padding: 40px 4%;
 }
 
-header > .navegation{
+header > .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
